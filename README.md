@@ -1,2 +1,2 @@
-# phpcrypto
-phpcrypto is a web user interface for managing your crypto portfolio
+# phpcryptfolio
+phpcryptfolio is a web user interface for managing your crypto portfolio
